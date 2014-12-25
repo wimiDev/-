@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 电阻读数器 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/电阻读数器.res" /d "_DEBUG" /d "_AFXDLL" "E:\技术实验\电阻读数器\电阻读数器.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/电阻读数器.pdb" /debug /machine:I386 /out:"Debug/电阻读数器.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\电阻读数器.obj" ".\Debug\电阻读数器Dlg.obj" ".\Debug\电阻读数器.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+电阻读数器.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
